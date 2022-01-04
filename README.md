@@ -7,9 +7,12 @@
 [<img align="left" alt="idna001 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<img alt="idna001" align="left"  src="https://github-readme-stats.vercel.app/api?username=idna001" />
+<br />
+<br />
+
+<img alt="idna001" align="left"  src="https://github-readme-stats.vercel.app/api?username=idna001&show_icons=true&count_private=true" />
 
 
 [twitter]: https://twitter.com/idna001
 [instagram]: https://instagram.com/idna001
-[linkedin]: https://linkedin.com/in/idna001
+[linkedin]: https://www.linkedin.com/in/andreas-voelker/
