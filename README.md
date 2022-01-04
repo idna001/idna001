@@ -7,7 +7,7 @@
 [<img align="left" alt="idna001 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-[![idna's GitHub stats](https://github-readme-stats.vercel.app/api?username=idna001)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="idna001" align="left"  src="https://github-readme-stats.vercel.app/api?username=idna001" />
 
 
 [twitter]: https://twitter.com/idna001
