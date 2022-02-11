@@ -32,8 +32,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=idna001&show_icons=true&theme=graywhite#gh-light-mode-only" alt="idna001" />
 </a>
 
-<a href="https://github.com/itaditya#gh-dark-mode-only">
+<a href="https://github.com/idna001#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=idna001&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="idna001" />
 </a>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact" alt="idna001" /></p>
+<a href="https://github.com/idna001#gh-dark-mode-only">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&theme=city_lights#gh-dark-mode-only" alt="idna001" />
+</a>
+<a href="https://github.com/idna001#gh-light-mode-only">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&theme=graywhite#gh-light-mode-only" alt="idna001" />
+</a>
