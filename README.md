@@ -42,9 +42,3 @@
 <a href="https://github.com/idna001#gh-light-mode-only">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&theme=graywhite#gh-light-mode-only" alt="idna001" />
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=idna001&theme=dark">
-  <img alt="Shows Andreas's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=idna001&theme=default">
-</picture>
-</a>
