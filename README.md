@@ -2,7 +2,7 @@
 <img 
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12C1DD&center=true&multiline=true&width=435&lines=Hey%2C+I'm+Andreas+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" 
     />
-<h3 align="center">And im just learning App and Web development. I also do some SmartHome stuff with arduinos and raspberrys.</h3>
+<h3 align="center">Im just learning App and Web development. I also do some SmartHome stuff with arduinos and raspberrys.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idna001&label=Profile%20views&color=0e75b6&style=flat" alt="idna001" /> </p>
 
