@@ -45,3 +45,5 @@
 <a href="https://github.com/idna001#gh-light-mode-only">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&theme=graywhite#gh-light-mode-only" alt="idna001" />
 </a>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> About ME</a>
