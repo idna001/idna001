@@ -6,7 +6,7 @@
 [![Button Icon]][Link]
 
 [Button Icon]: https://img.shields.io/badge/-Personal--Card-%230e6bf7
-[Link]: https://idna001.vercel.app 'Click-me'
+[Link]: https://idna001.vercel.app 'Click me'
 
 <h3 align="center">Im just learning App and Web development. I also do some SmartHome stuff with arduinos and raspberrys.</h3>
 
