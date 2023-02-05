@@ -14,8 +14,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idna001" alt="idna001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/idna001" target="blank"><img src="https://img.shields.io/twitter/follow/idna001?logo=twitter&style=for-the-badge" alt="idna001" /></a> </p>
-
 - 🔭 I’m currently working on **SmartHome things with Homebridge**
 
 - 🌱 I’m currently learning **react-native and swift.**
