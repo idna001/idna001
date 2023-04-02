@@ -36,16 +36,16 @@
 <p><a href="https://www.buymeacoffee.com/idna001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="idna001" /></a></p><br><br>
 <br>
 <a href="https://github.com/itaditya#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=idna001&show_icons=true&theme=graywhite#gh-light-mode-only" alt="idna001" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idna001&show_icons=true&count_private=true&theme=graywhite#gh-light-mode-only" alt="idna001" />
 </a>
 
 <a href="https://github.com/idna001#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=idna001&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="idna001" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idna001&show_icons=true&count_private=true&theme=city_lights#gh-dark-mode-only" alt="idna001" />
 </a>
 <br>
 <a href="https://github.com/idna001#gh-dark-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&theme=city_lights#gh-dark-mode-only" alt="idna001" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&count_private=true&theme=city_lights#gh-dark-mode-only" alt="idna001" />
 </a>
 <a href="https://github.com/idna001#gh-light-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&theme=graywhite#gh-light-mode-only" alt="idna001" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idna001&show_icons=true&locale=en&layout=compact&count_private=true&theme=graywhite#gh-light-mode-only" alt="idna001" />
 </a>
